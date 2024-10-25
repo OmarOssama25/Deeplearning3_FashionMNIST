@@ -70,7 +70,7 @@ jupyter notebook Fashion_MNIST_Keras.ipynb
   * Dense layer (128 neurons, ReLU activation)
   * Dense layer (64 neurons, ReLU activation)
 - Output Layer: 10 neurons (Softmax activation)
-- Regularization: Dropout and BatchNormalization
+- Regularization: Dropout
 
 ## Features
 - Data normalization and preprocessing
@@ -83,9 +83,9 @@ jupyter notebook Fashion_MNIST_Keras.ipynb
   * ROC curves
 
 ## Model Performance
-- Training Accuracy: ~93%
-- Validation Accuracy: ~91%
-- Test Accuracy: ~90%
+- Training Accuracy: ~90%
+- Validation Accuracy: ~88.6%
+- Test Accuracy: ~88.33%
 - Per-class metrics available in classification report
 
 ## Results Visualization
@@ -93,8 +93,6 @@ The notebook includes:
 - Loss and accuracy curves
 - Confusion matrix
 - Classification metrics by class
-- Sample predictions
-- Misclassified examples
 
 ## Contributing
 Feel free to open issues or submit pull requests for improvements.
