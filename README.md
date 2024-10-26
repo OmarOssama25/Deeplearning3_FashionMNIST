@@ -83,9 +83,9 @@ jupyter notebook Fashion_MNIST_Keras.ipynb
   * ROC curves
 
 ## Model Performance
-- Training Accuracy: ~90%
-- Validation Accuracy: ~88.6%
-- Test Accuracy: ~88.33%
+- Training Accuracy: ~94.12%
+- Validation Accuracy: ~90.19%
+- Test Accuracy: ~90%
 - Per-class metrics available in classification report
 
 ## Results Visualization
